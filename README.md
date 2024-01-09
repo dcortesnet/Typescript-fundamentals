@@ -5,6 +5,7 @@ Fundamentals of Typescript. Repository with examples and basic exercises of type
 ## Resources
 
 - Typescript web and doc: https://www.typescriptlang.org/
+- Typescript playground: https://www.typescriptlang.org/play
 
 ## Team
 
